@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Journal Systems
 
 > Open Journal Systems (OJS) has been developed by the Public Knowledge Project. For general information about OJS and other open research systems, visit the [PKP web site][pkp].
@@ -65,3 +66,7 @@ improvements or bug fixes to the software.
 [wiki-dev]: http://pkp.sfu.ca/wiki/index.php/HOW-TO_check_out_PKP_applications_from_git
 [php-unit]: http://phpunit.de/
 [gpl-licence]: docs/COPYING
+=======
+# ojs
+Open Journal System
+>>>>>>> 2eff480c98ea170d63e0ad4fd7fa305ccbe582bc
