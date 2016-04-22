@@ -1,0 +1,2 @@
+# ojs
+Open Journal System
